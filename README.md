@@ -358,6 +358,7 @@ A curated list of awesome AI tools
 - [Poised](https://www.poised.com) - Enhance your speaking with real-time feedback and personalized coaching.. [Paid]
 - [Screentime](https://screentime.monitup.com) - Optimize screen time, boost productivity with AI insights.. [Free Trial]
 - [Alice](https://www.heyalice.app) - Boost productivity with AI-powered privacy, customization, and app integration.. [Paid]
+- [Sistava](https://sistava.com) - Hire AI agents that run your entire business across sales, marketing, finance, and support. Reach them on Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks. [Paid]
 
 ### Research Assistant
 
@@ -2262,6 +2263,7 @@ A curated list of awesome AI tools
 - [Venngage](https://venngage.com) - Create personalized, visually stunning designs effortlessly online.. [Free]
 - [Vectorizer.ai](https://vectorizer.ai) - Transform raster images to high-quality vectors effortlessly with AI precision.. [Paid]
 - [Photo Editor AI](https://photoeditor.ai) - Remove unwanted objects, people, blemishes, or text from their images in seconds.. [Free]
+- [HairWow](https://www.gohairwow.com) - AI hairstyle, hair color, and beard try-on from a personal photo before changing your look. [Freemium]
 - [Image Candy](https://imgcandy.com) - Versatile online image editing, conversion, and compression tool.. [Free]
 - [Paintit](https://paintit.ai) - Revolutionize your space with AI-driven interior design visualization.. [Free]
 - [Final Touch](https://final-tou.ch) - Revolutionize product visuals with AI-driven scene generation and no-code editing.. [Free]
@@ -6777,6 +6779,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 - [Attri](https://attri.ai) - Revolutionizes customer service with autonomous AI, boosting efficiency and productivity.. [Contact for Pricing]
 - [Marvin](https://www.askmarvin.ai) - Empower AI development: NLP, image, audio, video tools.. [Free]
 - [1ClickClaw](https://1clickclaw.app/) - Self-host OpenClaw to build and deploy AI agents with a one-click setup flow.. [Paid]
+- [KubeStellar Console](https://console.kubestellar.io) - AI-powered multi-cluster Kubernetes management with natural language operations, MCP server (kc-agent), and CNCF project integrations for edge and cloud clusters. [Free]
 
 
 ## Code
